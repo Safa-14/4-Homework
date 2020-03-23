@@ -1,5 +1,4 @@
 window.onload = () => {
-    let container = document.querySelector('#container')
     let reset = document.querySelector("button")
     getJoke()
     reset.addEventListener("click",function (e) {
