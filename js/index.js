@@ -5,6 +5,7 @@ window.onload = () => {
         getJoke()
         e.preventDefault()
     })
+    
 }
 
 async function getJoke() {
